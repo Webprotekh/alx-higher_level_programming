@@ -1,0 +1,5 @@
+#!/usr/bin/python3print("The Zen of Python, by Tim Peters")
+print()
+print("Beautiful is better than ugly.")
+print("Explicit is better than implicit.")
+print("Sim")
