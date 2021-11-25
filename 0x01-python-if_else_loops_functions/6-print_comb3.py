@@ -8,4 +8,4 @@ for nums in range(0, 100):
         print("{:d}{:d}".format(nums, nums2), end="")
         if ((nums == 8) and (nums2 == 9)):
             break
-        print(", ", end = "")
+        print(", ", end="")
